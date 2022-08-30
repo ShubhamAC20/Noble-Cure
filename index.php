@@ -45,9 +45,9 @@
       </div>
       <div class="d-none d-lg-flex social-links align-items-center">
         <a href="#" class="twitter"><i class="bi bi-twitter"></i></a>
-        <a href="https://github.com/ShubhamAC20" class="github"><i class="bi bi-github"></i></i></a>
-        <a href="#" class="instagram"><i class="bi bi-instagram"></i></a>
-        <a href="https://www.linkedin.com/in/shubham-acharya-251365191/" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+        <a href="https://github.com/ShubhamAC20" class="github"><i class="bi bi-github"></i></a>
+        <a href="https://www.instagram.com/shubham_acharyaa/?igshid=NmNmNjAwNzg%3D" class="instagram"><i class="bi bi-instagram"></i></a>
+        <a href="https://www.linkedin.com/in/shubham-acharya-251365191/" class="linkedin"><i class="bi bi-linkedin"></i></a>
       </div>
     </div>
   </div>
@@ -57,17 +57,15 @@
     <div class="container d-flex align-items-center">
       <img src="assets/img/favicontrans.png" style="height: 50px;">
       <h1 class="logo me-auto"><a href="index.php">Noble Cure</a></h1>
-      <!-- Uncomment below if you prefer to use an image logo -->
-      <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
       <nav id="navbar" class="navbar order-last order-lg-0">
         <ul>
           <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
           <li><a class="nav-link scrollto" href="#about">About</a></li>
-          <li><a class="nav-link scrollto" href="#departments">Services</a></li>
-          <li><a class="nav-link scrollto" href="#doctors">Collaborators</a></li>
+          <li><a class="nav-link scrollto" href="#services">Services</a></li>
+          <li><a class="nav-link scrollto" href="#collaborators">Collaborators</a></li>
           <li><a class="nav-link scrollto" href="#faq">FAQ</a></li>
-          <li><a class="nav-link scrollto" href="#contact">Contact</a></li>  <!-- Minor Problem Here-->
+          <li><a class="nav-link scrollto" href="#contact">Contact</a></li> 
         </ul>
         <i class="bi bi-list mobile-nav-toggle"></i>
       </nav><!-- .navbar -->
@@ -176,51 +174,8 @@
       </div>
     </section><!-- End About Section -->
 
-    <!-- ======= Counts Section ======= -->
-    <!--<section id="counts" class="counts">
-      <div class="container">
-
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6">
-            <div class="count-box">
-              <i class="fas fa-user-md"></i>
-              <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Doctors</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
-            <div class="count-box">
-              <i class="far fa-hospital"></i>
-              <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Departments</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-            <div class="count-box">
-              <i class="fas fa-flask"></i>
-              <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Research Labs</p>
-            </div>
-          </div>
-
-          <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
-            <div class="count-box">
-              <i class="fas fa-award"></i>
-              <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Awards</p>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section>--><!-- End Counts Section -->
-
     <!-- ======= Services Section ======= -->
-    <section id="departments" class="departments">
+    <section id="services" class="departments">
       <div class="container">
 
         <div class="section-title">
@@ -383,8 +338,8 @@
       </div>
     </section><!-- End Appointment Section -->
 
-    <!-- ======= Doctors Section ======= -->
-    <section id="doctors" class="doctors">
+    <!-- ======= Collaborators Section ======= -->
+    <section id="collaborators" class="doctors">
       <div class="container">
 
         <div class="section-title">
@@ -396,7 +351,7 @@
 
           <div class="col-lg-6">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/doctors/logo1.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/logo/logo1.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Max Healthcare</h4>
                 <span>Delhi NCR</span>
@@ -413,7 +368,7 @@
 
           <div class="col-lg-6 mt-4 mt-lg-0">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/doctors/logo2.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/logo/logo2.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Apollo Hospital</h4>
                 <span>Delhi NCR</span>
@@ -430,7 +385,7 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/doctors/logo3.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/logo/logo3.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>AIIMS</h4>
                 <span>Delhi</span>
@@ -447,7 +402,7 @@
 
           <div class="col-lg-6 mt-4">
             <div class="member d-flex align-items-start">
-              <div class="pic"><img src="assets/img/doctors/logo4.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="assets/img/logo/logo4.jpg" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Saroj Super Speciality Hospital</h4>
                 <span>Delhi NCR</span>
@@ -621,7 +576,7 @@
       </div>
 
       <div>
-        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.577155435608!2d77.12512321489513!3d28.70229288239027!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d03de422867d1%3A0x4f45f0ac35d95572!2sB-5%2F125%2C%20Outer%20Ring%20Rd%2C%20Sector%208B%2C%20Sector%208%2C%20Rohini%2C%20New%20Delhi%2C%20Delhi%20110085!5e0!3m2!1sen!2sin!4v1658819492753!5m2!1sen!2sin" frameborder="0" allowfullscreen></iframe>
+        <iframe style="border:0; width: 100%; height: 350px;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3558.8061038918745!2d75.6869984148519!3d26.877900783142593!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396c4b160ee1e697%3A0x6ee599da3001ec94!2sRajasthan%20Institute%20of%20Engineering%20%26%20Technology%2C%20Jaipur!5e0!3m2!1sen!2sin!4v1661851373762!5m2!1sen!2sin" frameborder="0" allowfullscreen></iframe>
       </div>
 
       <div class="container">
@@ -651,39 +606,8 @@
 
           </div>
 
-          <!-- <div class="col-lg-8 mt-5 mt-lg-0">
-
-            <form id="contact" action="contact.php" method="post" class="php-email-form">
-              <div class="row">
-                <fieldset class="col-md-6 form-group">
-                  <input type="text" name="name2" class="form-control" id="name" placeholder="Your Name" >
-                </fieldset>
-                <fieldset class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email2" id="email" placeholder="Your Email" >
-                </fieldset>
-              </div>
-              <fieldset class="form-group mt-3">
-                <input type="text" class="form-control" name="phone2" id="phone" placeholder="Your Phone Number" >
-              </fieldset>
-              <fieldset class="form-group mt-3">
-                <input type="text" class="form-control" name="subject2" id="subject" placeholder="Subject" >
-              </fieldset>
-              <fieldset class="form-group mt-3">
-                <textarea class="form-control" name="message2" rows="5" placeholder="Message" required></textarea>
-              </fieldset>
-              <fieldset class="text-center">
-              <button type="submit" value="Submit" form="contact" >Send Message</button>
-                
-              </fieldset>
-            </form>
-            
-
-          </div>
-
- -->
-
           <div class="container col-lg-8 mt-5 mt-lg-0">
-            <form action="contact.php" method="post" id='form'>
+            <form action="contact.php" method="post" id='form1'>
 
               <input type="text" name="name2" class="form-control col-md-6 form-group" id="name" placeholder="Your Name" >
               <br>
@@ -698,7 +622,7 @@
               <textarea class="form-control form-group mt-3" name="message2" rows="5" placeholder="Message" required></textarea>
               <br>
 
-              <div class="text-center"><button type="submit" class="btn btn-primary btn-lg" value="Submit" form="form">Send Message</button></div>
+              <div class="text-center"><button type="submit" class="btn btn-primary btn-lg" value="Submit" form="form1">Send Message</button></div>
             </form>
           </div>
         </div>
@@ -729,8 +653,8 @@
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="https://www.termsfeed.com/live/df84befa-2840-4303-82ae-6d4a7415a9b7">Terms of service</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="https://www.freeprivacypolicy.com/live/95730ef1-c417-411b-8615-ba3c017fad6f">Privacy policy</a></li>
             </ul>
@@ -747,19 +671,14 @@
           &copy; Copyright <strong><span>Noble Cure</span></strong>. All Rights Reserved
         </div>
         <div class="credits">
-          <!-- All the links in the footer should remain intact. -->
-          <!-- You can delete the links only if you purchased the pro version. -->
-          <!-- Licensing information: https://bootstrapmade.com/license/ -->
-          <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/ -->
           Designed by <b>Shubham Acharya</b>
         </div>
       </div>
       <div class="social-links text-center text-md-right pt-3 pt-md-0">
         <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-        <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-        <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+        <a href="https://www.instagram.com/shubham_acharyaa/?igshid=NmNmNjAwNzg%3D" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="https://github.com/ShubhamAC20" class="github"><i class="bi bi-github"></i></i></a>
+        <a href="https://www.linkedin.com/in/shubham-acharya-251365191/" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
     </div>
   </footer><!-- End Footer -->
